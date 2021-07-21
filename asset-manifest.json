@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Map-place-positions/static/css/main.570f32b5.chunk.css",
+    "main.js": "/Map-place-positions/static/js/main.8f4cc226.chunk.js",
+    "main.js.map": "/Map-place-positions/static/js/main.8f4cc226.chunk.js.map",
+    "runtime-main.js": "/Map-place-positions/static/js/runtime-main.aa2383f7.js",
+    "runtime-main.js.map": "/Map-place-positions/static/js/runtime-main.aa2383f7.js.map",
+    "static/js/2.6c17f8c5.chunk.js": "/Map-place-positions/static/js/2.6c17f8c5.chunk.js",
+    "static/js/2.6c17f8c5.chunk.js.map": "/Map-place-positions/static/js/2.6c17f8c5.chunk.js.map",
+    "static/js/3.8898ee2e.chunk.js": "/Map-place-positions/static/js/3.8898ee2e.chunk.js",
+    "static/js/3.8898ee2e.chunk.js.map": "/Map-place-positions/static/js/3.8898ee2e.chunk.js.map",
+    "index.html": "/Map-place-positions/index.html",
+    "static/css/main.570f32b5.chunk.css.map": "/Map-place-positions/static/css/main.570f32b5.chunk.css.map",
+    "static/js/2.6c17f8c5.chunk.js.LICENSE.txt": "/Map-place-positions/static/js/2.6c17f8c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa2383f7.js",
+    "static/js/2.6c17f8c5.chunk.js",
+    "static/css/main.570f32b5.chunk.css",
+    "static/js/main.8f4cc226.chunk.js"
+  ]
+}
